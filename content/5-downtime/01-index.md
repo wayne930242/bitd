@@ -4,7 +4,7 @@ metaTitle: ""
 metaDescription: ""
 ---
 
-再一次案件之後，PC 們從任務行動中收穫收入。成功的案件會同時產生<span class="game-term">rep</span>和<span class="game-term">錢幣</span>。
+在一次案件之後，PC 們從任務行動中收穫收入。成功的案件會同時產生<span class="game-term">rep</span>和<span class="game-term">錢幣</span>。
 
 組織預設從每次案件賺得 2 <span class="game-term">rep</span>。如果案件標的的層級比你要高層級，**每高一層級**得到 **+1 <span class="game-term">rep</span>**。如果案件標的的層級較低，**每低一層級**得到 **-1 <span class="game-term">rep</span>**（最低為零）。
 

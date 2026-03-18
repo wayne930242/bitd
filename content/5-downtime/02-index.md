@@ -25,7 +25,7 @@ metaDescription: ""
 
 # 監禁
 
-能減輕你們組織<span class="game-term">通緝等級</span>的唯一方法就是監禁。當你們的組織成員、朋以、聯絡人——或被栽贓的敵人被你們組織關聯的罪行所定罪並且監禁，你們的<span class="game-term">通緝等級</span>會減少 1，並且清除你們的<span class="game-term">盯迫</span>。
+能減輕你們組織<span class="game-term">通緝等級</span>的唯一方法就是監禁。當你們的組織成員、朋友、聯絡人——或被栽贓的敵人被你們組織關聯的罪行所定罪並且監禁，你們的<span class="game-term">通緝等級</span>會減少 1，並且清除你們的<span class="game-term">盯迫</span>。
 
 監禁可能是因為警察的調查與逮補，或是因為有人自首，為組織的罪行背鍋。
 

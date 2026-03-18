@@ -19,7 +19,7 @@ PC 可以進行兩次以上的活動，但有代價。**每個列表上的額外
 
 在休整列表上的活動是有限的；一般行動則不是。在休整期間，你依然可以去某地、作某事、擲行動骰、蒐集情報、與其他角色說話等。換句話說，只有 _表上_ 的活動是有限的。
 
-進行任何的修整活動，如果有**朋友**或**聯絡人**幫助你，擲骰就得到 **+1d**。在擲骰後，你能花費<span class="game-term">錢幣</span>來提升結果等級。**每花費一枚<span class="game-term">錢幣</span>錢幣可以增進一級的結果。**所以，<span class="game-term">1-3</span> 結果變成 <span class="game-term">4</span> 或是 <span class="game-term">5</span>，<span class="game-term">4/5</span> 結果變成 <span class="game-term">6</span>，而 <span class="game-term">6</span> 變成 <span class="game-term">關鍵</span>。
+進行任何的休整活動，如果有**朋友**或**聯絡人**幫助你，擲骰就得到 **+1d**。在擲骰後，你能花費<span class="game-term">錢幣</span>來提升結果等級。**每花費一枚<span class="game-term">錢幣</span>錢幣可以增進一級的結果。**所以，<span class="game-term">1-3</span> 結果變成 <span class="game-term">4</span> 或是 <span class="game-term">5</span>，<span class="game-term">4/5</span> 結果變成 <span class="game-term">6</span>，而 <span class="game-term">6</span> 變成 <span class="game-term">關鍵</span>。
 
 **GM：**如果玩家無法決定要選擇哪個休整活動，提供他們一個長期專案點子。你知道玩家對什麼興趣和喜歡什麼。建議專案能為他們指出好玩的方向。
 
@@ -88,4 +88,4 @@ GM 可能設定一個要獲取該資產所需的**最小品質**等級。譬如�
 
 # 沈溺惡習
 
-拜訪你得**惡習供應者**來緩解**壓力**。細節請見下一小節。
+拜訪你的**惡習供應者**來緩解**壓力**。細節請見下一小節。
